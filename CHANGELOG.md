@@ -5,6 +5,14 @@ For what each release *means* (impact, upgrade actions, config and tool-surface 
 annotated [release notes](https://docs.arc-1-mcp.com/release-notes/)
 ([source](docs_page/release-notes.md)).
 
+## [1.5.1](https://github.com/arc-mcp/arc-1/compare/v1.5.0...v1.5.1) (2026-10-04)
+
+
+### Bug Fixes
+
+* handle namespaced includes and lowercase function-group names ([#905](https://github.com/arc-mcp/arc-1/issues/905)) ([4ad7d16](https://github.com/arc-mcp/arc-1/commit/4ad7d165992b5903909e7376045c8a6093c268c5))
+* recover legacy ADT class and program media types ([#909](https://github.com/arc-mcp/arc-1/issues/909)) ([cf7879b](https://github.com/arc-mcp/arc-1/commit/cf7879bfd75387585e2b6091bb5e4e3e02457730))
+
 ## [1.5.0](https://github.com/arc-mcp/arc-1/compare/v1.4.0...v1.5.0) (2026-10-02)
 
 
